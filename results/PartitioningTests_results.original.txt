@@ -1,0 +1,21 @@
+Testsuite: swen90006.fotbot.PartitioningTests
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.045 sec
+
+Testcase: fotBotTestEC10 took 0.002 sec
+Testcase: fotBotTestEC11 took 0 sec
+Testcase: fotBotTestEC12 took 0.01 sec
+Testcase: fotBotTestEC13 took 0.01 sec
+Testcase: fotBotTestEC14 took 0 sec
+Testcase: fotBotTestEC15 took 0 sec
+Testcase: fotBotTestEC16 took 0 sec
+Testcase: fotBotTestEC17 took 0 sec
+Testcase: fotBotTestEC18 took 0 sec
+Testcase: fotBotTestEC1 took 0 sec
+Testcase: fotBotTestEC2 took 0.003 sec
+Testcase: fotBotTestEC3 took 0 sec
+Testcase: fotBotTestEC4 took 0 sec
+Testcase: fotBotTestEC5 took 0.001 sec
+Testcase: fotBotTestEC6 took 0 sec
+Testcase: fotBotTestEC7 took 0.001 sec
+Testcase: fotBotTestEC8 took 0 sec
+Testcase: fotBotTestEC9 took 0 sec
